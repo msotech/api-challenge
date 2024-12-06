@@ -1,7 +1,7 @@
 
 # API Challenge - Gerenciamento de Tarefas
 
-Este projeto é uma API REST para gerenciar uma lista de tarefas, implementada utilizando **Laravel**. Ele foi desenvolvido para atender ao desafio técnico da [poli-digital]
+Este projeto é uma API REST para gerenciar uma lista de tarefas, implementada utilizando **Laravel**. Ele foi desenvolvido para atender ao desafio técnico da Poli-Digital
 
 ---
 
